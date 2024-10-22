@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Patika+ BackEnd Bootcamp Week4\\OOP-Practice\\OOP-Practice.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Patika+ BackEnd Bootcamp Week4\\School Management System\\OOP-Practice.csproj",
       "projectName": "OOP-Practice",
-      "projectPath": "C:\\Users\\User\\Desktop\\Patika+ BackEnd Bootcamp Week4\\OOP-Practice\\OOP-Practice.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Patika+ BackEnd Bootcamp Week4\\School Management System\\OOP-Practice.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Patika+ BackEnd Bootcamp Week4\\OOP-Practice\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Patika+ BackEnd Bootcamp Week4\\School Management System\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
